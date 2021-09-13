@@ -74,7 +74,7 @@
         display:flex;
         flex-direction:column;
         justify-content:flex-end;
-        height:330px;
+        height:157px;
     }
 
     &-name{
@@ -93,7 +93,10 @@
     }
 
     &-platform{
-        width:20px;
-        margin-right:10px;
+        width: 20px;
+        margin-right: 10px;
+        background: #fff;
+        border-radius: 2px;
+        padding: 3px;
     }
 }
